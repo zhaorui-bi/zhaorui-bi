@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI for Science(biology, chemistry and material), Graph Neural Networks, Konwledge Graph, Drug Discovery
 - 🌱 I’m currently learning Computer Science in Ocean University of China and robotics in Herrit-Watt University
 - 💞️ I’m looking to collaborate on AI for Science(biology, chemistry and material)
-- 📫 How to reach me jzr071911@126.com/zj2009@hw.ac.uk
+- 📫 How to reach me Personal email: jzr071911@126.com; Academic email: zj2009@hw.ac.uk
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
