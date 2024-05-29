@@ -7,9 +7,9 @@
 - 😄 Pronouns: Passionated，Concentrated，Easygoing
 - ⚡ Fun fact: Tennis Lover，Marathon Lover
 
-![](https://github-readme-stats.vercel.app/api?username=void-echo&count_private=true&show_icons=true&theme=transparent)
+![](https://github-readme-stats.vercel.app/api?username=zhaorui-bi&count_private=true&show_icons=true&theme=transparent)
 
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=void-echo&layout=compact&hide=javascript,html,c,css,scss,typescript,xml,ShaderLab)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=zhaorui-bi&layout=compact&hide=javascript,html,c,css,scss,typescript,xml,ShaderLab)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 zhaorui-bi/zhaorui-bi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
