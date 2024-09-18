@@ -8,9 +8,16 @@
 - 😄 Pronouns: Passionated，Concentrated，Easygoing
 - ⚡ Fun fact: Tennis Lover，Marathon Lover
 
-![](https://github-readme-stats.vercel.app/api?username=zhaorui-bi&count_private=true&show_icons=true&theme=transparent)
+## Github Status 🥰
 
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=zhaorui-bi&layout=compact&hide=javascript,html,c,css,scss,typescript,xml,ShaderLab)](https://github.com/anuraghazra/github-readme-stats)
+<div> 
+	<a href="https://github.com/zhaorui-bi">
+		<img align="left" src="https://github-readme-stats.vercel.app/api?username=DBinary&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_border=true&count_private=true" />
+	</a>
+	<a href="https://github.com/zhaorui-bi">
+		<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DBinary&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_border=true&count_private=true">
+	</a>
+</div>
 
 <!---
 zhaorui-bi/zhaorui-bi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
