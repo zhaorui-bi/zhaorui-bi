@@ -2,11 +2,11 @@
 - 👋 Hi, I’m @zhaorui-bi, my site is: https://zhaorui-bi.github.io
 - 👀 I’m interested in **AI for Life Science** —— in particular **Metagenomics** and **Spatial Omics**
 - 🚀 I'm dedicated to developing myslef to be an **Amphibian Scholar** —— Combine "Wet Lab" and "Dry Lab" together
-- 🌱 I’m currently learning Computer Science in Ocean University of China and robotics in Herrit-Watt University
-- 💞️ I’m looking to collaborate on AI for Science(Biology, Chemistry and Material)
-- 📫 How to reach me Personal email: jzr071911@126.com; Academic email: zj2009@hw.ac.uk
-- 😄 Pronouns: Passionated，Easygoing, MBTI: ENFJ
-- ⚡ Fun fact: Tennis Lover，Marathon Lover
+- 🌱 I’m an **incoming Master Studet in Peking University**
+- 💞️ I’m looking to **find collaborators on AI for Science(Biology, Chemistry and Material)**
+- 📫 How to reach me Personal email: **jzr071911@126.com**; Academic email: **zj2009@hw.ac.uk**
+- 😄 MBTI: **ENFJ**
+- ⚡ Fun fact: **Tennis Lover**
 
 ## Github Status 🥰
 
