@@ -1,6 +1,6 @@
 ## ElijahMoulton ![](https://komarev.com/ghpvc/?username=zhaorui-bi)
 - 👋 Hi, I’m @zhaorui-bi, my site is: https://zhaorui-bi.github.io
-- 👀 I’m interested in AI for Science(biology, chemistry and material), Graph Neural Networks, Spatial Transcriptomics, Explainable Artificial Intelligence(XAI), Hybird Quantum Computing
+- 👀 I’m interested in **AI for Life Science** —— in particular **Metagenomics** **Spatial Omics**
 - 🚀 I'm dedicated to developing myslef to be an "Amphibian Scholar“ —— Combine "Wet Lab" and "Dry Lab" together —— Design related Software for easy use
 - 🌱 I’m currently learning Computer Science in Ocean University of China and robotics in Herrit-Watt University
 - 💞️ I’m looking to collaborate on AI for Science(biology, chemistry and material), Expalianable Graph Neural Networks
