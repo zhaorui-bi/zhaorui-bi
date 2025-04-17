@@ -1,8 +1,8 @@
 ## ElijahMoulton ![](https://komarev.com/ghpvc/?username=zhaorui-bi)
 
-<div style="text-align: center; width: 100%;">
+<div style="display: flex; justify-content: center; align-items: center; width: 100%;">
     <a href="https://github.com/zhaorui-bi">
-        <img src="https://github-stats-alpha.vercel.app/api?username=zhaorui-bi&cc=22272e&tc=37BCF6&ic=fff&bc=0000" style="display: inline-block; margin: 0 auto;">
+        <img src="https://github-stats-alpha.vercel.app/api?username=zhaorui-bi&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
     </a>
 </div>
 
