@@ -1,7 +1,30 @@
 ## ElijahMoulton ![](https://komarev.com/ghpvc/?username=zhaorui-bi)
 
-<a href="https://github.com/zhaorui-bi">
-    <img src="https://github-stats-alpha.vercel.app/api?username=zhaorui-bi&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>居中显示</title>
+    <style>
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+        }
+        a {
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <a href="https://github.com/zhaorui-bi">
+        <img src="https://github-stats-alpha.vercel.app/api?username=zhaorui-bi&cc=22272e&tc=37BCF6&ic=fff&bc=0000" alt="GitHub Stats">
+    </a>
+</body>
+</html>
 
 - 👋 Hi, I’m @zhaorui-bi, my site is: https://zhaorui-bi.github.io
 - 👀 I’m interested in **AI for Life Science** —— in particular **Metagenomics** and **Spatial Omics**
