@@ -1,6 +1,7 @@
 ## ElijahMoulton ![](https://komarev.com/ghpvc/?username=zhaorui-bi)
 
-<div align="center">
+<div align="center" style="position: relative;">
+    <span style="position: absolute; top: -20px; font-size: 16px; font-weight: bold;">你的浮动文字</span>
     <a href="https://github.com/zhaorui-bi">
         <img src="https://github-stats-alpha.vercel.app/api?username=zhaorui-bi&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
     </a>
