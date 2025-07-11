@@ -2,7 +2,7 @@
 
 <p align="center">
 <a href="https://github.com/zhaorui-bi">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Zhaorui+Jiang;Zero+year+MPhil.+Student+%7C+Peking+University;Computational+Biology+%7C+AI+for+Life+Science" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Zhaorui+Jiang;First+year+MPhil.+Student+%7C+Peking+University;Computational+Biology+%7C+AI+for+Life+Science" alt="Typing SVG" />
 </a>
 <br/>
     
@@ -17,7 +17,7 @@
 - 🚀 I'm dedicated to developing myslef to be an **Amphibian Scholar** —— Combine **"Wet Lab"** and **"Dry Lab"** together
 - 🌱 I’m an **incoming Master Studet in Peking University**
 - 💞️ I’m looking to **find collaborators on AI for Science(Biology, Chemistry and Material)**
-- 📫 How to reach me Personal email: **jzr071911@126.com**; Academic email: **zj2009@hw.ac.uk**
+- 📫 How to reach me Personal email: **jzr071911@126.com**; Academic email: **zrjiang25@stu.pku.edu.cn**
 - 😄 MBTI: **ENFJ**
 - ⚡ Fun fact: **Tennis Lover**
 
