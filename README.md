@@ -16,7 +16,7 @@
 - 👀 I’m interested in **AI for Life Science** —— in particular **Metagenomics**, **Spatial Omics** and **Protein Design**
 - 🚀 I'm dedicated to developing myslef to be an **Amphibian Scholar** —— Combine **"Wet Lab"** and **"Dry Lab"** together
 - 🌱 I’m a **First Year MPhil Studet at Peking University**
-- 💞️ I’m looking to **find collaborators on AI for Science(Biology, Chemistry and Material)**
+- 💞️ I’m looking to **find collaborators on AI for Science**
 - 📫 How to reach me Personal email: **jzr071911@126.com**; Academic email: **zrjiang25@stu.pku.edu.cn**
 - 😄 MBTI: **ENFJ/ENTJ**
 - ⚡ Fun fact: **Tennis Lover**
