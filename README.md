@@ -2,7 +2,7 @@
 
 <p align="center">
 <a href="https://github.com/zhaorui-bi">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Zhaorui+Jiang;First+year+MPhil.+Student+%7C+Peking+University;Computational+Biology+%7C+AI+for+Life+Science" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Zhaorui(Elijah)+JIANG;First+year+MPhil.+Student+%7C+Peking+University;Computational+Biology+%7C+AI+for+Life+Science" alt="Typing SVG" />
 </a>
 <br/>
     
