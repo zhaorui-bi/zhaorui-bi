@@ -13,10 +13,10 @@
 </div>
 
 - 👋 Hi, I’m @zhaorui-bi, my site is: https://zhaorui-bi.github.io
-- 👀 I’m interested in **AI for Life Science** —— in particular **Metagenomics**, **Spatial Omics** and **Protein Design**
+- 👀 I’m interested in **Science Intelligence (AI for Life Science)**
 - 🚀 I'm dedicated to developing myslef to be an **Amphibian Scholar** —— Combine **"Wet Lab"** and **"Dry Lab"** together
 - 🌱 I’m a **First Year MPhil Studet at Peking University**
-- 💞️ I’m looking to **find collaborators on AI for Science**
+- 💞️ I’m looking to **find collaborators on **Science Intelligence (AI for Life Science)**
 - 📫 How to reach me Personal email: **jzr071911@126.com**; Academic email: **zrjiang25@stu.pku.edu.cn**
 - 😄 MBTI: **ENFJ/ENTJ**
 - ⚡ Fun fact: **Tennis Lover**
