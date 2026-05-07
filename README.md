@@ -5,7 +5,6 @@
     <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Zhaorui(Elijah)+JIANG;First+year+MPhil.+Student+%7C+Peking+University;Computational+Biology+%7C+Science+Intelligence" alt="Typing SVG" />
 </a>
 <br/>
-    
 <div align="center">
     <a href="https://github.com/zhaorui-bi">
         <img src="https://github-stats-alpha.vercel.app/api?username=zhaorui-bi&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
