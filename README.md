@@ -14,6 +14,6 @@
 
 - 👋 Hi, I’m @zhaorui-bi, my site is: https://zhaorui-bi.github.io
 - 👀 I’m interested in **Science Intelligence (AI for Life Science and Geoscience)**
-- 🌱 I’m a **First Year MPhil Studet at Peking University, Research Assistant at THETA TEAM and Laoshan Laboratory**
+- 🌱 I’m a **First Year MPhil Studet at Peking University, Research Assistant at THETA TEAM**
 - 📫 How to reach me Personal email: **jzr071911@126.com**; Academic email: **zrjiang25@stu.pku.edu.cn**
 - 😄 MBTI: **ENFJ/ENTJ**
