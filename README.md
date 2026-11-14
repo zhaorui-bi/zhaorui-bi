@@ -2,7 +2,7 @@
 
 <p align="center">
 <a href="https://github.com/zhaorui-bi">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Zhaorui(Elijah)+JIANG;MPhil.+Student+%7C+Peking+University+and+Monash+University;Science+Intelligence+(Life+Science+and+Environment)" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Zhaorui(Elijah)+JIANG;MPhil.+Student+%7C+Peking+University+and+Monash+University;AI+For+Science+and+Environment" alt="Typing SVG" />
 </a>
 <br/>
 <div align="center">
@@ -12,7 +12,7 @@
 </div>
 
 - 👋 Hi, I’m @zhaorui-bi, my site is: https://zhaorui-bi.github.io
-- 👀 I’m interested in **Science Intelligence (Life Science and Environment)**
+- 👀 I’m interested in **AI For Science and Environment**
 - 🌱 I’m a **MPhil Studet at Peking University, Research Assistant at THETA TEAM**
 - 📫 How to reach me Personal email: **jzr071911@126.com**; Academic email: **zrjiang25@stu.pku.edu.cn**
 - 😄 MBTI: **ENFJ/ENTJ**
